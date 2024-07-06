@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone_number,address,signup_date
+1,John,Doe,john.doe@example.com,(555) 123-4567,123 Elm St,2023-01-15
+2,Jane,Smith,jane.smith@example.com,555-234-5678,456 Oak St,2023/02/16
+3,,Williams,jack.williams@example.com,555.345.6789,789 Pine St,15-03-2023
+4,Susan,Johnson,susan.j@example.com,5551234567,101 Maple St,2023.04.18
+5,John,Doe,john.doe@example.com,(555) 123-4567,123 Elm St,2023-01-15
